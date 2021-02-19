@@ -1,7 +1,7 @@
 # BOOTSTRAP
 <h3 align="center">Template destinado ao estudo do framework bootstrap </h3>
 
-# Este template contém:
+# Este repositorio contém:
 
 - Exemplos das funcionalidades do bootstrap
 - Templates do starbootstrap
