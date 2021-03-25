@@ -1,5 +1,5 @@
 <h1 align="center"> bootstrap</h1>
-<h3 align="center">Repositório ddestinado ao estudo do framework bootstrap</h3>
+<h3 align="center">Repositório destinado ao estudo do framework bootstrap</h3>
 
 <h4>Este repositório contém:</h4>
 
