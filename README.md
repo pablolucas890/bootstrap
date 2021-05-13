@@ -1,3 +1,8 @@
+<img src="gif1.gif">
+<img src="gif2.gif">
+<img src="gif3.gif">
+<img src="gif4.gif">
+<hr>
 <h1 align="center"> bootstrap</h1>
 <h3 align="center">Repositório destinado ao estudo do framework bootstrap</h3>
 
